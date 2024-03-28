@@ -12,7 +12,7 @@ from dateutil import tz
 
 ###################### CONEXION A IQ OPTIONS ############################
 
-API = IQ_Option('montiverogianfranco2709@gmail.com','gamemodes100')
+API = IQ_Option('mgmail.com','PASSWORD0')
 
 API.connect()
 
@@ -139,7 +139,7 @@ def stream(API,par_seleccionado,max,min,vencimiento,direccion):
 
 ######## SENTENCIAS #########
 
-TOKEN="2030804133:AAEilJbxpE6o_BO1f153P7AcBgOoJZSWhcY"
+TOKEN="1111111111111111111111111"
 
 
 #COMANDOS

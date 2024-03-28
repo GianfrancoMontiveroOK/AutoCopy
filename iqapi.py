@@ -4,7 +4,7 @@ import time
 from Analista import stream
 
 
-API = IQ_Option('montiverogianfranco2709@gmail.com','gamemodes100')
+API = IQ_Option('@gmail.com','game00')
 
 API.connect()
 
